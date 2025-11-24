@@ -1,4 +1,4 @@
-# Balloon_Text_Maker
+# Balloon_Text_Maker — Blender アドオン
 
 ## 概要
 

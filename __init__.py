@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Balloon_Text_Maker",
-    "author": "Kengo Hoi",
+    "author": "Kengo_Hoi",
     "version": (1, 0, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > BalloonText",
