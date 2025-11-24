@@ -1,9 +1,9 @@
 bl_info = {
-    "name": "Balloon Text Maker Lite",
-    "author": "Your Name",
+    "name": "Balloon_Text_Maker",
+    "author": "Kengo Hoi",
     "version": (1, 0, 0),
     "blender": (4, 0, 0),
-    "location": "View3D > Sidebar > BalloonTextLite",
+    "location": "View3D > Sidebar > BalloonText",
     "description": "Creates balloon-style text mesh: text → mesh/thickness → subdivide",
     "warning": "",
     "wiki_url": "",
